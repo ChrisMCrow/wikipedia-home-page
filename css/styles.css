@@ -1,0 +1,44 @@
+body {
+  background-color: #f6f6f6;
+}
+.sidebar {
+  width: 160px;
+  height: 100%;
+  padding: 8px;
+  border-right: 1px solid #b1d6f6;
+  float: left;
+}
+#main {
+  background-color: #ffffff;
+  margin-left: 160px;
+}
+#welcome {
+  background-color: #f9f9f9;
+  border: 1px solid #dddddd;
+  margin: 5px;
+  margin-left: 1.4em;
+}
+
+#greenblue {
+  overflow: auto;
+}
+
+#colgreen {
+  background-color: #f7fffa;
+  border: 1px solid #d5f1e1;
+  margin: 5px;
+  margin-left: 1.4em;
+}
+
+#colblue {
+  background-color: #f6fafe;
+  border: 1px solid #d1dff0;
+  margin: 5px
+}
+
+#colpurple {
+  background-color: #f9f5fe;
+  border: 1px solid #dbcfef;
+  margin: 5px;
+  margin-left: 1.4em
+}
