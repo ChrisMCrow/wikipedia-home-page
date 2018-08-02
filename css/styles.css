@@ -44,8 +44,11 @@ body {
 .header {
   margin-top: 10px;
   margin-bottom: 10px;
-  padding: 5px;
-  font-size: 16.8px;
+}
+
+.header h4 {
+  padding-left: 5px;
+  font-size: 16px;
   font-weight: 700;
 }
 
@@ -61,4 +64,10 @@ body {
 .img-article {
   float: left;
   margin: 5px 5px 5px 0px;
+}
+
+.imgfloatright {
+  float: right;
+  width: 120px;
+  margin: 5px 0px 5px 5px;
 }
