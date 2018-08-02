@@ -1,5 +1,6 @@
 body {
   background-color: #f6f6f6;
+  font-family: sans-serif;
 }
 .sidebar {
   width: 160px;
@@ -12,15 +13,12 @@ body {
   background-color: #ffffff;
   margin-left: 160px;
 }
+
 #welcome {
   background-color: #f9f9f9;
   border: 1px solid #dddddd;
   margin: 5px;
   margin-left: 1.4em;
-}
-
-#greenblue {
-  overflow: auto;
 }
 
 #colgreen {
@@ -41,4 +39,26 @@ body {
   border: 1px solid #dbcfef;
   margin: 5px;
   margin-left: 1.4em
+}
+
+.header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 16.8px;
+  font-weight: 700;
+}
+
+.right-align {
+  text-align: right;
+}
+
+#header-green {
+  background-color: #d5f1e1;
+  border: 1px solid #a8beb2;
+}
+
+.img-article {
+  float: left;
+  margin: 5px 5px 5px 0px;
 }
